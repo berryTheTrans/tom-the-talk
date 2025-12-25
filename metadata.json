@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Talking Pet",
+  "description": "A fully interactive animated pet that mimics your voice or chats intelligently using Gemini Live API. Features touch reactions, expressions, and pitch-shifted playback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
